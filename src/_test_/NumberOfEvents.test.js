@@ -11,7 +11,7 @@ describe('<NumberOfEvents /> component', () => {
         expect(NumberOfEventsWrapper.find('.numberOfEvents')).toHaveLength(1);
       });
     test('change state when number is input',()=>{
-        NumberOfEventsWrapper.setState({ numberOfEvents: "30" });
+        NumberOfEventsWrapper.setState({ numberOfEvents: "32" });
         NumberOfEventsWrapper.find(".numberOfEvents").simulate("change", {
       target: { value: "10" },
     });
