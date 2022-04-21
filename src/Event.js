@@ -36,7 +36,7 @@ class Event extends Component {
 					<a className="details-link" href={event.htmlLink} rel="noreferrer" target="_blank">
 							See details on Google Calendar
 							</a>
-					<button className={'hide-details ${collapsed ? "Show Details" : "Hide Details"}-details`'}
+					<button className={`hide-details ${collapsed ? "Show Details" : "Hide Details"}-details`}
                     onClick={this.handleClick}>{collapsed ? "Show Details" : "Hide Details"}</button>
 					</div>
 					}
