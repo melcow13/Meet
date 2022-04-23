@@ -1,15 +1,16 @@
 {
-  "main.css": "/Meet/static/css/main.47f9caf6.chunk.css",
-  "main.js": "/Meet/static/js/main.ae63b9b2.chunk.js",
-  "main.js.map": "/Meet/static/js/main.ae63b9b2.chunk.js.map",
-  "runtime~main.js": "/Meet/static/js/runtime~main.1aa62e7b.js",
-  "runtime~main.js.map": "/Meet/static/js/runtime~main.1aa62e7b.js.map",
-  "static/js/2.510b465f.chunk.js": "/Meet/static/js/2.510b465f.chunk.js",
-  "static/js/2.510b465f.chunk.js.map": "/Meet/static/js/2.510b465f.chunk.js.map",
-  "static/js/3.3d8b2b35.chunk.js": "/Meet/static/js/3.3d8b2b35.chunk.js",
-  "static/js/3.3d8b2b35.chunk.js.map": "/Meet/static/js/3.3d8b2b35.chunk.js.map",
-  "index.html": "/Meet/index.html",
-  "precache-manifest.9c739ce30f50fc96480b7770912949ad.js": "/Meet/precache-manifest.9c739ce30f50fc96480b7770912949ad.js",
-  "service-worker.js": "/Meet/service-worker.js",
-  "static/css/main.47f9caf6.chunk.css.map": "/Meet/static/css/main.47f9caf6.chunk.css.map"
+  "files": {
+    "main.css": "/Meet/static/css/main.1f6e645d.css",
+    "main.js": "/Meet/static/js/main.a4046ddb.js",
+    "static/js/377.dda790c9.chunk.js": "/Meet/static/js/377.dda790c9.chunk.js",
+    "service-worker.js": "/Meet/service-worker.js",
+    "index.html": "/Meet/index.html",
+    "main.1f6e645d.css.map": "/Meet/static/css/main.1f6e645d.css.map",
+    "main.a4046ddb.js.map": "/Meet/static/js/main.a4046ddb.js.map",
+    "377.dda790c9.chunk.js.map": "/Meet/static/js/377.dda790c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f6e645d.css",
+    "static/js/main.a4046ddb.js"
+  ]
 }
