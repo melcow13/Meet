@@ -27,6 +27,16 @@ class CitySearch extends Component {
         });
       }
     };
+
+    handleItemClicked = (suggestion) => {
+      this.setState({
+        query: suggestion,
+        showSuggestions: false
+      });
+  
+      this.props.updateEvents(suggestion);
+  
+    }
   render() {
     return (
       <div className="CitySearch">
